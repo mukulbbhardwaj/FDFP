@@ -1,1 +1,1 @@
-https://expanding-cards-mb.netlify.app/
+https://exp-card-mb.netlify.app/
